@@ -1,0 +1,3 @@
+integer = int(input("Enter your five digit integer: "))
+integer = x , y , z , p , o
+print(x , "   " , y , "   "  , z , "   " , p , "   " , o)

@@ -1,0 +1,7 @@
+integer = int(input("Enter your five digit integer: "))
+x = (int(integer / 10000)% 10)
+t = (int(integer / 1000)% 10)
+p = (int(integer / 100)% 10)
+y = (int(integer / 10)% 10)
+z = int(integer % 10)
+print(x , "   " , t , "   " , p , "   " , y , "   " , z)
