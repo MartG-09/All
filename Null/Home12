@@ -1,0 +1,20 @@
+import java.util.Scanner;
+ public class Home11 {
+   public static void main(String[] args) {
+    Scanner input = new Scanner(System.in);
+
+    System.out.print("Enter amount of water in Kg: ");
+     int M = input.nextInt();
+
+    System.out.print("Enter initial temperature: ");
+     int Ini = input.nextInt();
+
+    System.out.print("Enter final temperature: ");
+     int Fin = input.nextInt();
+
+        int Q = M * (Fin - Ini) * 4184;
+
+    System.out.println("Quantity of energy is: " + Q);
+
+    }
+} 
