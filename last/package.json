@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "semicolon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Arithemetic_function.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartG-09/JavaScriptTasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MartG-09/JavaScriptTasks/issues"
+  },
+  "homepage": "https://github.com/MartG-09/JavaScriptTasks#readme"
+}
